@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>🎮 Automated Game Control (Hand Gesture Based)</title>
-</head>
-<body>
-
-  <h1>🎮 Automated Game Control Using Hand Gestures</h1>
+ <h1>🎮 Automated Game Control Using Hand Gestures</h1>
   <p>
     A gesture-based control system that lets you play games using hand movements! The system leverages computer vision to detect fingers in real time and maps them to game actions — all without touching a keyboard or controller.
   </p>
